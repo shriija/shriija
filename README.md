@@ -36,6 +36,6 @@ I'm a Computer Science student who loves **technical logic** almost as much as *
 ---
 
 ### 🤝 Connect with me
- ⭐️ [LinkedIn](www.linkedin.com/in/shrijagangapuram) | [Email](mailto:heyshrija@gmail.com) | [LeetCode](https://leetcode.com/u/_shrija/)⭐️
+ ⭐️ [LinkedIn](www.linkedin.com/in/shrijagangapuram) | [Email](mailto:heyshrija@gmail.com) | [LeetCode](https://leetcode.com/u/_shrija//)⭐️
 
 ---
