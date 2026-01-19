@@ -28,7 +28,6 @@ I'm a Computer Science student who loves **technical logic** almost as much as *
 ### 📈 GitHub Exploration
 *This profile serves as a living documentation of my journey from CSE student to Creative Engineer.*
 
-- 🎯 **The DSA Grind:** Attempting to maintain a **LeetCode streak**. (At least, that’s the plan... check back tomorrow to see if I survived.)
 - 🔭 **The Goal:** Finding a place where **clean code** and **intentional design** actually coexist.
 - 🌱 **Learning in Public:** Documenting my shift into deep technical work, one pixel (and bug) at a time.
 - 🎥 **Side Quest:** Minimal video editing for project demos—mostly because I like things to look pretty.
